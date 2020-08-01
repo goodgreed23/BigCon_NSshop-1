@@ -1,5 +1,6 @@
 # 2020 빅콘테스트 온라인 설명회 요약
 - URL: https://www.youtube.com/watch?v=_SKekBe3a1Q
+- 데이터 설명은 1:23:34 부터 
 
 ### 내부요인
 - 고객니즈 상품력
